@@ -1,0 +1,23 @@
+{
+  "name": "npm-and-polymer-demo",
+  "version": "1.0.0",
+  "description": "Material Design sampler using Polymer",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addyosmani/npm-and-polymer-demo.git"
+  },
+  "keywords": [
+    "Polymer",
+    "Material Design"
+  ],
+  "author": "The Polymer Authors",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/addyosmani/npm-and-polymer-demo/issues"
+  },
+  "homepage": "https://github.com/addyosmani/npm-and-polymer-demo#readme",
+  "dependencies": {
+    "npm-polymer-elements": "0.0.1"
+  }
+}
